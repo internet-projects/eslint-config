@@ -1,4 +1,5 @@
 module.exports = {
+  extends: 'plugin:vue/recommended',
   rules: {
     'vue/order-in-components': 'error',
     'vue/attribute-hyphenation': 'error',
