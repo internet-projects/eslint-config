@@ -1,0 +1,17 @@
+{
+  "name": "@internetprojects/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "keywords": [
+    "eslintconfig",
+    "eslint"
+  ],
+  "peerDependencies": {
+    "eslint": "^7.29.0 || ^8.26.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^9.17.0"
+  }
+}
