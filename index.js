@@ -7,7 +7,6 @@ module.exports = {
     'comma-dangle': ['error', 'always-multiline'],
     'import/no-named-as-default-member': 'error',
     'vue/order-in-components': 'error',
-    'vue/no-v-html': 'off',
     'vue/attribute-hyphenation': 'error',
     'vue/max-attributes-per-line': 'off',
     'vue/multi-word-component-names': 'off',
