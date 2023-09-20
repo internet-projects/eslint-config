@@ -7,5 +7,6 @@ module.exports = {
     'semi': ['error', 'never'],
     'comma-dangle': ['error', 'always-multiline'],
     'import/no-named-as-default-member': 'error',
-  }
+  },
+  plugins: ['import']
 }
