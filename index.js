@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint:recommended'],
+  extends: ['eslint:recommended', 'plugin:import/recommended'],
   rules: {
     'indent': ['error', 2],
     'linebreak-style': ['error', 'unix'],
@@ -7,6 +7,5 @@ module.exports = {
     'semi': ['error', 'never'],
     'comma-dangle': ['error', 'always-multiline'],
     'import/no-named-as-default-member': 'error',
-  },
-  plugins: ['import']
+  }
 }
