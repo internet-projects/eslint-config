@@ -10,5 +10,6 @@ module.exports = {
     'vue/require-default-prop': 'error',
     'vue/no-lone-template': 'error',
     'vue/html-closing-bracket-spacing': ['error', { selfClosingTag: 'never' }],
+    'vue/no-multiple-template-root': 'off',
   }
 }
